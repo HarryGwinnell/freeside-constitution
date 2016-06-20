@@ -6,8 +6,8 @@
   BACKGROUND
 
   Freeside is a student run non-profit organisation that was created in the
-  late 1990s. Many students have taken the role of leaderhsip for the
-  organisation, some leaderships ending in distater for the group and others
+  late 1990s. Many students have taken the role of leadership for the
+  organisation, some leaderships ending in disaster for the group and others
   allowing it to thrive. This constitution is being written to ensure that a
   fair and well-functioning leadership will be given to Freeside for the
   foreseeable future. It also serves as a record of ethical conduct within
@@ -29,7 +29,7 @@
 
   'office'		- The room that Freeside currently resides in
 
-  'students'            - Current or Alumi students of the University of Hull
+  'students'            - Current or Alumni students of the University of Hull
 
 
   1. PURPOSE OF ORGANISATION
@@ -54,7 +54,7 @@
         or outside parties offering equipment.
 
       2.1.1  When equipment is donated, it should be done so without any
-             obligation or pretense as to what the equipment should be used
+             obligation or pretence as to what the equipment should be used
              for. See section 4 for details of how decisions are made.
 
       2.1.2  Members who have donated equipment at any extent do not gain any
@@ -67,7 +67,7 @@
              1.1, with the exception of equipment used to control the live
              system.
 
-      2.2.2  POE must be clearly labeled and identified to other members as
+      2.2.2  POE must be clearly labelled and identified to other members as
              privately owned.
 
       2.2.3  Freeside as an organisation is not liable for any damages or loss
