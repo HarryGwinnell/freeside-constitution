@@ -99,6 +99,9 @@
         
         3.5.1 In order for a meeting to be eligible for voting, at least 40% of the current active members
               must be present, either in person or using an approved Video Chat program (e.g. Skype).
+        
+        3.5.2 In order to be eligible to vote, a member must have had a membership for 3 months or attended 3
+              meetings, whichever comes first.
 
 
   4. APPOINTING LEADERSHIP
