@@ -27,6 +27,9 @@
   'member'              - A person currently participating in achieving the
                           purposes of Freeside as stated in section 1.
 
+  'team leader'         - A person who has been elected to take ownership of
+  			  a particular team within Freeside.
+
   'office'		- The room that Freeside currently resides in
 
   'students'            - Current or Alumni students of the University of Hull
@@ -34,17 +37,17 @@
 
   1. PURPOSE OF ORGANISATION
 
-    1.1 To provide computer infrastructure and software services to students.
+    1.1 To provide computer infrastructure and software services to students, including but not limited to: Virtual Machines, Web Hosting, Game Servers and Development Environments.
 
     1.2 To provide education services; topics included but not limited to:
-        practical computer hardware skills, use of server operating systems,
-        use of service software, and use of FOSS.
+        Computer Hardware repair and maintainence, use of server operating systems and software,
+        maintainence of Server infrastructure, and use of FOSS.
 
     1.3 To always attempt with great effort to achieve 1.1 and 1.2 using as
         much FOSS as practically possible.
         [CONTESTED]
 
-    1.4 To provide a group of people to discuss the recent developments of
+    1.4 To provide a platform for people to discuss the recent developments of
         FOSS and technology in general.
 
 
@@ -64,7 +67,7 @@
         belong to members privately.
 
       2.2.1  POE must not be used in running any live system in relation to
-             1.1, with the exception of equipment used to control the live
+             1.1, with the exception of equipment used to monitor or interact with the live
              system.
 
       2.2.2  POE must be clearly labelled and identified to other members as
@@ -76,12 +79,26 @@
       2.2.4  Members will take any precaution necessary to ensure that POE is
              not damaged or lost, failure to do so may result in loss of
 	     membership and access rights.
+	     
 
 
   3. APPOINTING LEADERSHIP
 
   4. MAKING DECISIONS
+  
+    4.1 An Anual General Meeting shall be held in May or June of each academic year.
+    
+    4.2 Any team leader may call a meeting provided appropriate notice is given (At least 1 week).
+
 
   5. ILLEGAL ACTIVITIES
 
     5.1 No Alcohol is to be stored or consumed in the office.
+    
+    5.2 No drugs, prescription or otherwise, are to be stored or taken within the office.
+
+    5.3 Any member found to be breaching these rules shall have their membership revoked
+        without exception.
+        
+        5.3.1 The only exception to this rule is in the event of an emergency whereby
+              prescription drugs are administered (e.g. in the event of anaphylactic shock).
