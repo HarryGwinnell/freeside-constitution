@@ -35,6 +35,7 @@
   'students'            - Current or Alumni students of the University of Hull
 
 
+
   1. PURPOSE OF ORGANISATION
 
     1.1 To provide computer infrastructure and software services to students, including but not limited to: Virtual Machines, Web Hosting, Game Servers and Development Environments.
@@ -111,7 +112,17 @@
           
           4.3.1 If the current Freeside members decide to be a Society, these 5 positions will also correspond
                 to the Society Executive positions.
-  
+    
+     4.4 A vote of No Confidence may be called at any meeting to eject the Project Leader or any of the Team Leaders
+     	 from their positions. Standard Meeting rules regarding attendance apply. A vote of at least 80% of the 
+     	 members in attendance must vote in favour in order for the vote to pass.
+     	 
+     	 4.4.1 If one of these members is ejected from their position of power, a further vote will be cast to decide
+     	       if they can remain a member of Freeside.
+     	      
+     	 4.4.2 If one of these members is ejected, their access to the Freeside equipment and Office will be temporarily
+     	       suspended, pending a review of their access and permissions within the System.
+     	 
   5. ILLEGAL ACTIVITIES
 
     5.1 No Alcohol is to be stored or consumed in the office.
@@ -127,3 +138,18 @@
   6. AMENDMENTS
 
     6.1 Amendments can be made at any meeting, provided a majority of 80% in favour is reached.
+
+  7. MEMBERSHIP
+
+    7.1 Membership shall be extended to any interested party, provided they meet the requirements specified here,
+    	at the Project Leader's discression.
+    
+    7.2 Membership may be revoked provided a vote is taken at an eligible meeting, and the result is over 80% in favour.
+    
+    7.3 Membership lasts for a duration of 1 year, at which point the member must get in touch with the Project Leader
+        to confirm their intention to continue membership.
+        
+    7.4 Members agree to join any Freeside communication channel that they are requested to join (e.g. Slack).
+    
+    7.5 Members agree to give their details to Freeside in case contact is needed. This will be stored in line with the
+    	Data Protection Act 1998, and will only be accessed by Team Leaders or the Project Leader.
