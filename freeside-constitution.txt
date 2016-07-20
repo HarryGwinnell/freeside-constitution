@@ -153,3 +153,6 @@
     
     7.5 Members agree to give their details to Freeside in case contact is needed. This will be stored in line with the
     	Data Protection Act 1998, and will only be accessed by Team Leaders or the Project Leader.
+    	
+    7.6 Any member engaging in activities which defame or smear the reputation of Freeside shall have their membership
+        immediately terminated.
