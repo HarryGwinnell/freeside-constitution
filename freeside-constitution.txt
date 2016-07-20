@@ -27,10 +27,10 @@
   'member'              - A person currently participating in achieving the
                           purposes of Freeside as stated in section 1.
 
-  'team leader'         - A person who has been elected to take ownership of
+  'Team Leader'         - A person who has been elected to take ownership of
   			  a particular team within Freeside.
 
-  'office'		- The room that Freeside currently resides in
+  'Office'		- The room that Freeside currently resides in
 
   'students'            - Current or Alumni students of the University of Hull
 
@@ -81,16 +81,37 @@
 	     membership and access rights.
 	     
 
-
-  3. APPOINTING LEADERSHIP
-
-  4. MAKING DECISIONS
+  3. METTINGS AND DECISIONS
   
-    4.1 An Anual General Meeting shall be held in May or June of each academic year.
+    3.1 An Anual General Meeting shall be held in May or June of each academic year.
     
-    4.2 Any team leader may call a meeting provided appropriate notice is given (At least 1 week).
+    3.2 Any Team Leader may call a meeting provided appropriate notice is given (At least 1 week).
+    
+    3.3 Any member may propose a topic for discussion at a meeting, provided it is given to the Secretary
+        or Project Leader at least 1 day prior to the meeting, or at the end of any meeting.
+        
+    3.4 Small decisions may be made by the Team Leaders as they see appropriate. (E.g. whether to issue a 
+        new user account)
+        
+    3.5 Larger decisions must be made at a meeting of either all Team Leaders or all Members. A majority of
+        at least 60% in favor must be reached in order for a positive outcome.
+        
+        3.5.1 In order for a meeting to be eligible for voting, at least 40% of the current active members
+              must be present, either in person or using an approved Video Chat program (e.g. Skype).
 
 
+  4. APPOINTING LEADERSHIP
+  
+      4.1 Leadership elections shall be cast at the AGM each year.
+      
+      4.2 Leadership Elections must follow the general Meeting rules regarding attendance.
+      
+      4.3 5 Positions will be availible at any given time. These will be the Project Leader and the 4 Team
+          Leader positions.
+          
+          4.3.1 If the current Freeside members decide to be a Society, these 5 positions will also correspond
+                to the Society Executive positions.
+  
   5. ILLEGAL ACTIVITIES
 
     5.1 No Alcohol is to be stored or consumed in the office.
@@ -102,3 +123,7 @@
         
         5.3.1 The only exception to this rule is in the event of an emergency whereby
               prescription drugs are administered (e.g. in the event of anaphylactic shock).
+
+  6. AMENDMENTS
+
+    6.1 Amendments can be made at any meeting, provided a majority of 80% in favour is reached.
